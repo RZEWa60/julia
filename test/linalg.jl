@@ -376,3 +376,4 @@ let
         @test_approx_eq A[i] B[i]
     end
 end
+lufact(randn(66,66))
